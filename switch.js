@@ -11,7 +11,7 @@ switch(metodo) {
     case "Cartão de crédito":
         alert("Pagamento em cartão de crédito")
         break;
-    case "Cheque":
+    case "Cheque": 
         alert("Pagamento em cheque")
         break;
     case "Carnê":
